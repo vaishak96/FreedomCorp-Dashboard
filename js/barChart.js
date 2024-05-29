@@ -1,6 +1,6 @@
 /*
 *    barChart.js
-*    Project 4 - FreedomCorp Dashboard
+*    Project  - FreedomCorp Dashboard
 */
 
 class BarChart {
